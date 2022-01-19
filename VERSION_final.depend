@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1577033986 source:c:\users\mathi\desktop\nf05 final clear\version_final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+
